@@ -1,0 +1,18 @@
+{
+  "name": "miniprogram-ci-onestep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "kuler": "^2.0.0",
+    "log-update": "^5.0.0",
+    "miniprogram-ci": "^1.6.10"
+  }
+}
